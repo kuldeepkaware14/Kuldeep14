@@ -36,7 +36,7 @@ EmployeeHandler handler;
 	@GetMapping("/hello")
 	public String returnData()
 	{
-		return "Welcome to Java Service ";
+		return "Welcome to Spring boot Service ";
 	}
 		
 
